@@ -74,7 +74,7 @@ color: #fff;
 }
 	
 #theme_select {
-	background: #efefef url(images/arrow.png) no-repeat;
+	background: #efefef url(https://www.anarieldesign.com/demos/images/arrow.png) no-repeat;
 	width: 200px;
 	display: block;
 	padding:10px 9px;
@@ -178,34 +178,34 @@ color: #fff;
 }
 
 .responsive a.desktop { 
-	background: url(images/devices.png) no-repeat 0 0; 
+	background: url(https://www.anarieldesign.com/demos/images/devices.png) no-repeat 0 0; 
 	width: 20px; 
 	height: 19px; 
 }
 
 .responsive a.tabletlandscape { 
-	background: url(images/devices.png) no-repeat -30px -3px; 
+	background: url(https://www.anarieldesign.com/demos/images/devices.png) no-repeat -30px -3px; 
 	width: 17px; 
 	height: 14px; 
 	margin-top: 2px;
 }
 
 .responsive a.tabletportrait { 
-	background: url(images/devices.png) no-repeat -59px -1px; 
+	background: url(https://www.anarieldesign.com/demos/images/devices.png) no-repeat -59px -1px; 
 	width: 14px; 
 	height: 17px;
 	margin-top: 1px; 
 }
 
 .responsive a.mobilelandscape { 
-	background: url(images/devices.png) no-repeat -87px -4px; 
+	background: url(https://www.anarieldesign.com/demos/images/devices.png) no-repeat -87px -4px; 
 	width: 14px; 
 	height: 11px;
 	margin-top: 5px; 
 }
 
 .responsive a.mobileportrait { 
-	background: url(images/devices.png) no-repeat -117px -3px; 
+	background: url(https://www.anarieldesign.com/demos/images/devices.png) no-repeat -117px -3px; 
 	width: 11px; 
 	height: 14px;
 	margin-top: 3px; 
